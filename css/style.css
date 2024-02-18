@@ -118,7 +118,7 @@ button{
     margin-left: 80px;
 }
 .top {
-    background-image: url(/top__bg.png);
+    background-image: url(/images/top__bg.png);
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;

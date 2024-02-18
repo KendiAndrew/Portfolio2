@@ -118,7 +118,7 @@ button{
     margin-left: 80px;
 }
 .top {
-    background-image: url(/images/top__bg.png);
+    background-image: url(../images/top__bg.png);
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;
@@ -269,7 +269,7 @@ button{
 .mailing_list{
     background-color: #F7F2EA;
     padding-bottom: 100px;
-    background-image: url(/images/tea__bg.png);
+    background-image: url(../images/tea__bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
 }

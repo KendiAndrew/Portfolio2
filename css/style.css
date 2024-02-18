@@ -119,9 +119,7 @@ button{
 }
 .top {
     background-image: url(/images/top__bg.png);
-    background-repeat: no-repeat;
-    background-position: top left;
-    background-size: cover;
+    
 }
 .top__inner {
     min-height: 500px;
